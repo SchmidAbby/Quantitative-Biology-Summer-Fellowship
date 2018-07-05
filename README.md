@@ -2,9 +2,9 @@
 Projects from the UChicago BSCD Quantitative Biology Summer Fellowship 2018 
 
 ## Project 1 (Weeks 1-3): Data Visualization and Analysis
-Week 1: R\
-Week 2: Python/pandas \
-Week 3:
+Week 1: Handling and visualizing data in R\
+Week 2: Handling and visualizing data with Python/pandas \
+Week 3: Multiple Correspondence Analysis in R 
 
 ## Project 2 (Weeks 4-6):
 Week 4:\
