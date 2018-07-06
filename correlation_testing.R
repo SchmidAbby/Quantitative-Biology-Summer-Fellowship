@@ -7,8 +7,6 @@ library(ggplot2)
 library("FactoMineR")
 library("factoextra")
 
-setwd("C:/Users/jbams/Documents/MerenLab/")
-
 # data prep -- importing and cleaning 
 gc_summary <- read.table("synteny_plots_and_summary_tables/CPS_NONREDUNDANT_gene_clusters_summary.txt", sep = "\t", header = TRUE)
 layers <- read.table("layers-additional-data.txt", sep = "\t", header = TRUE)
