@@ -1,5 +1,5 @@
 # hclust 
-# cluster samples based on variables, do we get two clusters for malignant and benin
+# cluster samples based on variables, do we get two clusters for malignant and benign
 
 library(dendextend)
 library(colorspace)
