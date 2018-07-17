@@ -1,8 +1,6 @@
 # hclust 
 # cluster samples based on variables, do we get two clusters for malignant and benin
 
-setwd("C:/Users/jbams/Documents/QBSummerFellowship/")
-
 library(dendextend)
 library(colorspace)
 
