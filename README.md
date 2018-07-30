@@ -9,7 +9,7 @@ Week 3: Multiple Correspondence Analysis in R
 ## Project 2 (Weeks 4-6): Clustering Algorithms
 Week 4: Partitional clustering algorithms (k-means) \
 Week 5: More partitional clustering (fuzzy k-means) and hierarchical clustering \
-Week 6:
+Week 6: Density based clustering, assessing cluster tendency, cluster validation
 
 ## Project 3 (Weeks 7-9):
 Week 7:\
