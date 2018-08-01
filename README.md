@@ -12,7 +12,7 @@ Week 5: More partitional clustering (fuzzy k-means) and hierarchical clustering 
 Week 6: Density based clustering, assessing cluster tendency, cluster validation \
 (Winsconsin Breast Cancer Data from http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/) 
 
-## Project 3 (Weeks 7-9):
-Week 7:\
+## Project 3 (Weeks 7-9): Markov Models 
+Week 7: Markov Model for spatial disease dynamics of chlamydia in Chicago \
 Week 8:\
 Week 9:
