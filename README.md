@@ -14,5 +14,5 @@ Week 6: Density based clustering, assessing cluster tendency, cluster validation
 
 ## Project 3 (Weeks 7-9): Markov Models 
 Week 7: Markov Model for spatial disease dynamics of chlamydia in Chicago \
-Week 8:\
-Week 9:
+Week 8:Markov Model cont, Hidden Markov Models \
+Week 9: --- 
