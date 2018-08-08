@@ -8,8 +8,8 @@ library("FactoMineR")
 library("factoextra")
 
 # data prep -- importing and cleaning 
-gc_summary <- read.table("synteny_plots_and_summary_tables/CPS_NONREDUNDANT_gene_clusters_summary.txt", sep = "\t", header = TRUE)
-layers <- read.table("layers-additional-data.txt", sep = "\t", header = TRUE)
+gc_summary <- read.table("path_to_file.txt", sep = "\t", header = TRUE)
+layers <- read.table("other_file.txt", sep = "\t", header = TRUE)
 combined_data <- merge(gc_summary, layers, by.x="genome_name", by.y="item", all=TRUE)
 combined_data$COG_CATEGORY <- substr(combined_data$COG_CATEGORY, 1, 1)
 combined_data$COG_CATEGORY <- as.factor(combined_data$COG_CATEGORY)
