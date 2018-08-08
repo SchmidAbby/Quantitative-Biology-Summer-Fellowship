@@ -13,6 +13,6 @@ Week 6: Density based clustering, assessing cluster tendency, cluster validation
 (Winsconsin Breast Cancer Data from http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/) 
 
 ## Project 3 (Weeks 7-9): Markov Models 
-Week 7: Markov Model for spatial disease dynamics of chlamydia in Chicago \
-Week 8: Markov Model disease dynamics cont, Hidden Markov Models \
+Week 7: Markov Model for spatial disease dynamics of chlamydia in Chicago (starting with only one neighborhood)\
+Week 8: Markov Model disease dynamics cont (adding neighborhood interactions), Hidden Markov Models \
 Week 9: --- 
